@@ -9,8 +9,8 @@ public class Tutorial10 {
 		System.out.println(array1[1]); //Prints value in array slot 1 (Will output 0 as Slot 1 currently has no value)
 		
 		//Now we fill the array with values for each slot
-		array1[0] = 30;
-		array1[1] = 60;
+		array1[0] = 30; //Array slot 0 is equivalent to 1st Array...
+		array1[1] = 60; //... And so on.
 		array1[2] = 90;
 		array1[3] = 120;
 		
