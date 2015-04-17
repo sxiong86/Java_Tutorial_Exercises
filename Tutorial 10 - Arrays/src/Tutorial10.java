@@ -3,7 +3,7 @@ public class Tutorial10 {
 
 	public static void main(String[] args) {
 		
-		int[] array1; //Non-primitive data type
+		int[] array1; //Non-primitive data type; the [] means Array
 		array1 = new int[4]; //Our array has 4 elements (ALWAYS BEGINS WITH 0 SLOT)
 		
 		System.out.println(array1[1]); //Prints value in array slot 1 (Will output 0 as Slot 1 currently has no value)
